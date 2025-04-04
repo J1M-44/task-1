@@ -1,0 +1,25 @@
+<style>
+.myBox {
+
+
+  padding: 15px;
+  width: 500px;
+  height: 150px;
+  margin: 5px;
+}
+</style>
+<style>
+    .myBox {
+      border: 10px green;
+      padding: 15px;
+      background-color: white;
+      width: 500px;
+      height: 150px;
+      margin: 5px;
+    }
+  </style>
+<style>
+body {
+  background-color: lightgreen;
+}
+</style>
